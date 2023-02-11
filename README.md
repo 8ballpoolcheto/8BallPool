@@ -40,7 +40,6 @@ It is recommended that you also change the name of the app
 
 ### Dimens.xml
 
-https://github.com/jonathansilva/8BallPool/blob/master/app/src/main/res/values/dimens.xml
 
 ### Videos
 
