@@ -43,7 +43,6 @@ It is recommended that you also change the name of the app
 
 ### Videos
 
-https://www.youtube.com/playlist?list=PL1Z6DvZsu0GdBTJmiutGIktcVpQwFvaA0
 
 ### Screenshots
 
